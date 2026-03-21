@@ -70,8 +70,14 @@ http://13.62.105.124:5000 (It's a dynamic IP, so it will get change every time w
 
 \## 📸 Screenshots
 
-(Add screenshots here later)
+### 🔹 CI/CD Pipeline
+![Pipeline](screenshots/pipeline.png) & ![Pipeline](screenshots/pipeline_last.png) 
 
+### 🔹 Live Application
+![App](screenshots/App_on_web.png)
+
+### 🔹 Docker process
+![Docker](screenshots/App_on_Docker_container.png)
 
 
 ---
